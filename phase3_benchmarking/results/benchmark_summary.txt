@@ -1,0 +1,27 @@
+
+================================================================================
+📊 BENCHMARK SUMMARY REPORT
+================================================================================
+
+📈 Performance Overview:
+   Matrix sizes tested: 4×4, 8×8, 16×16
+   Total tests: 3
+   Successful tests: 3
+   Failed tests: 0
+
+🚀 Speedup Analysis:
+   Average speedup: 0.07x
+   Maximum speedup: 0.14x
+   Minimum speedup: 0.00x
+
+⚡ Performance Metrics:
+   Average CPU GFLOPS: 0.83
+   Average Accelerator GFLOPS: 0.10
+   Performance improvement: -88.2% (if available)
+
+📋 Detailed Results:
+   4×4: CPU=0.001ms, VMMUL=0.245ms, Speedup=0.00x
+   8×8: CPU=0.001ms, VMMUL=0.012ms, Speedup=0.07x
+   16×16: CPU=0.002ms, VMMUL=0.016ms, Speedup=0.14x
+
+================================================================================
