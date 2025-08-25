@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RISC-V AI Accelerator Simulator
 
 A comprehensive project to simulate a custom RISC-V CPU with AI-specific instruction extensions and integrate it with TinyGrad for benchmarking and optimization.
@@ -140,3 +141,6 @@ MIT License - See LICENSE file for details.
 ---
 
 **🎉 Project Status: ALL PHASES COMPLETE AND TESTED!**
+=======
+# RISC-V-AI-Accelerator-Simulator-
+>>>>>>> 3c3568e1bfdb28d8000c8a3b15a351c5a745cd10
